@@ -84,6 +84,11 @@ for row, item in publications.iterrows():
     md += "\ndate: " + str(item.pub_date) 
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
+
+    md += "\npublished: " + item.published
+
+    if pd.notna(item.image):
+        md += "\nimage: '" + item.image + "'"
     
     if len(str(item.slides_url)) > 5:
         md += "\nslidesurl: '" + item.slides_url + "'"
