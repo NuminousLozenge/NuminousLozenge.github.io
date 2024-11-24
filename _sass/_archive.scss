@@ -43,10 +43,22 @@
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
   a + a {
     opacity: 0.5;
   }
 }
+
+.archive__item-image {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
 
 /* remove border*/
 .page__content {
