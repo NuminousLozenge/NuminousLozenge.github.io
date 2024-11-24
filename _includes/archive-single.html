@@ -26,6 +26,16 @@
           <img src="https://numinouslozenge.github.io/images/profile.png" alt="">
       </div>
     {% endif %}
+    <div class="archive__item-teaser">
+      <!-- <img src=
+        {% if teaser contains "://" %}
+          "{{ teaser }}"
+        {% else %}
+          "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+        {% endif %}
+        alt=""> -->
+        <img src="https://numinouslozenge.github.io/images/profile.png" alt="">
+    </div>
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
