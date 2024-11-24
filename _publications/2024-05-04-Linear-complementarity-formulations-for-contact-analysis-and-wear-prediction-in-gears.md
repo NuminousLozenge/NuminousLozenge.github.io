@@ -9,6 +9,9 @@ published: ya
 venue: 'Mechanism and Machine Theory, Volume 198'
 paperurl: 'https://doi.org/10.1016/j.mechmachtheory.2024.105669'
 citation: 'To be updated'
+header:
+  teaser: "profile.png"
+
 ---
 To be updated
 
