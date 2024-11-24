@@ -27,8 +27,9 @@
     {% endif %}
 
     <h3 class="archive__item-title" itemprop="headline">
-
-      <img src="https://numinouslozenge.github.io/images/profile.png" alt="" class="archive__item-image">
+      {% if post.image %}
+        <img src="{{ post.image }}" alt="" class="archive__item-image">
+      {% endif %}
 
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> 

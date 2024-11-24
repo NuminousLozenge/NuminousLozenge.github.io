@@ -6,6 +6,7 @@ permalink: /publication/2024-09-24-Reinforcement-Learning-Based-Persistent-Surve
 excerpt: 'To be updated'
 date: 2024-09-24
 published: na
+image: 'https://numinouslozenge.github.io/images/rl_surv.gif'
 venue: '2024 Tenth Indian Control Conference (ICC-10)'
 paperurl: 'https://numinouslozenge.github.io/files/c1_reinforcement_learning_based_persistent_surveillance_on_graphs.pdf'
 citation: 'To be updated'
