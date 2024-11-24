@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+title                    : "Lalit Jayanti"
+title_separator          : " "
+name                     : &name "Lalit Jayanti"
+description              : &description ""
 url                      : https://numinouslozenge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NuminousLozenge/numinouslozenge.github.io"
@@ -22,9 +22,9 @@ repository               : "NuminousLozenge/numinouslozenge.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Lalit Jayanti"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Undergraduate student at the Indian Institute of Technology Madras"
   location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
