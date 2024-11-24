@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Lalit Jayanti"
-title_separator          : " "
+title_separator          : "-"
 name                     : &name "Lalit Jayanti"
 description              : &description ""
 url                      : https://numinouslozenge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
