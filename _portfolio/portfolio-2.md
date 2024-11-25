@@ -1,6 +1,6 @@
 ---
 title: "Team Abhiyaan Autonomous Mobile Robot Simulation"
-excerpt: "To be updated <br/><img src='/images/500x300.png'>"
+excerpt: "To be updated <br/><img src='/images/virat_test.gif' height='300'>"
 collection: portfolio
 ---
 
