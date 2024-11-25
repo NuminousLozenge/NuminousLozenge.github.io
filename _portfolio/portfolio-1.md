@@ -1,7 +1,8 @@
 ---
 title: "Course Project : Design and Analysis of Jansen Linkage"
-excerpt: "To be updated <br/><img src='/images/jansen_linkage.gif' height='300'>"
+excerpt: "Design, synthesis and analysis of the Jansen’s Linkage, for application as a mobile
+robot leg. More information about this project can be found at this [Repository](https://github.com/NuminousLozenge/Theory-of-Mechanisms) <br/><img src='/images/jansen_linkage.gif' height='300'>"
 collection: portfolio
 ---
 
-[Repo](https://github.com/NuminousLozenge/Theory-of-Mechanisms)
+More information about this project can be found at this [Repository](https://github.com/NuminousLozenge/Theory-of-Mechanisms)
