@@ -8,10 +8,10 @@ date: 2024-05-04
 venue: 'Mechanism and Machine Theory, Volume 198'
 published: ya
 paperurl: 'https://doi.org/10.1016/j.mechmachtheory.2024.105669'
-citation: '[BibTeX](https://numinouslozenge.github.io/files/citations/S0094114X2400096X.bib)'
+citation: '<a href=&quot;https://numinouslozenge.github.io/files/citations/S0094114X2400096X.bib&quot;>[BibTeX]</a>'
 ---
 This work presents linear complementarity based formulations for contact analysis and wear prediction in gear trains.
 
 [Download paper here](https://doi.org/10.1016/j.mechmachtheory.2024.105669)
 
-Recommended citation: [BibTeX](https://numinouslozenge.github.io/files/citations/S0094114X2400096X.bib)
+Recommended citation: <a href="https://numinouslozenge.github.io/files/citations/S0094114X2400096X.bib">[BibTeX]</a>
