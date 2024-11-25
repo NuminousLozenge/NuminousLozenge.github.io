@@ -1,7 +1,7 @@
 ---
-title: "Team Abhiyaan : Autonomous Mobile Robot Simulation"
-excerpt: "To be updated <br/><img src='/images/virat_test.gif' height='300'>"
+title: "Course Project : Pattern Recognition and Machine Learning"
+excerpt: "To be updated <br/><img src='/images/prml_eigen_nums.png' height='300'>"
 collection: portfolio
 ---
 
-[Simulation](https://github.com/NuminousLozenge/virat-simulation)
+[Repo](https://github.com/NuminousLozenge/PRML-Assignments)
