@@ -1,6 +1,6 @@
 ---
-title: "Course Project \| Design and Analysis of Jansen Linkage"
-excerpt: "To be updated <br/><img src='/images/jansen_linkage.gif' height="300">"
+title: "Course Project Design and Analysis of Jansen Linkage"
+excerpt: "To be updated <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
